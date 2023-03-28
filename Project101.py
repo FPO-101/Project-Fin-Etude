@@ -27,7 +27,8 @@ col = IntVar()
 copywrite_label = Label(root, text="Copyright © 2023 Maths. All Rights Reserved - FPO - Ouarzazate.")
 copywrite_label.pack(side=BOTTOM, fill=X)
 def input_row_column():
-    global row, col#---
+    #hello
+    global row, col
     Label(frame, text="Enter number of rows for matrix 1 :", bg="green", fg="white", borderwidth=3, relief="groove", font=("ariel", 10), width=35).place(x=5, y=200)
     Label(frame, text="Enter number of column for matrix 1 :", bg="green", fg="white", borderwidth=3, relief="groove", font=("ariel", 10), width=35).place(x=5, y=250)
     Entry(frame, width=4, textvariable=row, borderwidth=3, bg="green", fg="black", relief="solid").place(x=300, y=200)
