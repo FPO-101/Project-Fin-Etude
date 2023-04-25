@@ -43,4 +43,4 @@ Veuillez lire notre politique de confidentialité dans le fichier PRIVACY.md.
 Pour en savoir plus sur l'équipe de développement et le projet, veuillez consulter le fichier ABOUT.md.
 
 Contactez-nous
-Si vous avez des questions ou des commentaires sur l'application, n'hésitez pas à nous contacter à l'adresse e-mail suivante : [INSERT EMAIL ADDRESS].
+Si vous avez des questions ou des commentaires sur l'application, n'hésitez pas à nous contacter à l'adresse e-mail suivante : hamza.oukhacha@edu.uiz.ac.ma.
